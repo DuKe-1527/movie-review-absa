@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+models/
+data/douban_movie_comments_raw.json
+*.safetensors
+*.pt
+*.pkl
+*.bin
+.streamlit/
+.DS_Store
+Thumbs.db

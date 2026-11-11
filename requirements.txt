@@ -1,0 +1,15 @@
+# 影评方面级情感分析与观点摘要系统 · 依赖（与 DB1 环境实际版本一致）
+torch==2.1.2
+transformers==4.36.2
+pytorch-crf==0.7.2
+scikit-learn==1.7.2
+pandas==2.3.3
+numpy==2.2.6
+pyarrow==25.0.1
+jieba==0.42.1
+textrank4zh==0.3
+lime==0.2.0.1
+matplotlib==3.10.9
+streamlit==1.64.0
+beautifulsoup4==4.15.0
+requests==2.28.1
